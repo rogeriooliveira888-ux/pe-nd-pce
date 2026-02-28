@@ -1,0 +1,1 @@
+print("PE-ND-PCE Engine iniciado.")
